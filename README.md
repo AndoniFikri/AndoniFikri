@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science which include Data Visualization, Machine Learning, Feature Engineering, Exploratory Data Analysis, etc.**
 
-- 👯 I’m also a part time worker at **PT. Pustek E&T, an engineering consultant company**
+- 👯 I’m also a part time worker at **PT. Pustek E&T, an engineering consultant company.**
 
 - 💬 Ask me about **Oil and Gas, Energy, Mechanical Engineering, Engineering Design, and Data Science stuff!**
 
