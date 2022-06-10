@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science which include Data Visualization, Machine Learning, Feature Engineering, Exploratory Data Analysis, etc.**
 
-- 👯 I’m also having an experince as an **Engineering Consultant and Facility Engineer Intern for a well known national oil and gas company **
+- 👯 I’m also having an experince as an **Engineering Consultant and Facility Engineer Intern for a well known national oil and gas company**
 
 - 💬 Ask me about **Oil and Gas, Energy, Mechanical Engineering, Engineering Design, and Data Science stuff!**
 
